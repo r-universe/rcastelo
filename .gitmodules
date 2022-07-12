@@ -3,18 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GenomicScores"]
-	path = GenomicScores
-	url = https://github.com/rcastelo/genomicscores
-	shallow = true
-	registered = true
-[submodule "GSVA"]
-	path = GSVA
-	url = https://github.com/rcastelo/gsva
-	shallow = true
-	registered = true
-[submodule "VariantFiltering"]
-	path = VariantFiltering
-	url = https://github.com/rcastelo/variantfiltering
-	shallow = true
-	registered = true

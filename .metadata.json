@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "package": "GenomicScores"
+  },
+  {
+    "package": "GSVA"
+  },
+  {
+    "package": "VariantFiltering"
+  }
+]

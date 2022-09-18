@@ -13,3 +13,8 @@
 	url = https://github.com/rcastelo/gsva
 	shallow = true
 	registered = true
+[submodule "VariantFiltering"]
+	path = VariantFiltering
+	url = https://github.com/rcastelo/variantfiltering
+	shallow = true
+	registered = true

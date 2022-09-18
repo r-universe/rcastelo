@@ -4,5 +4,8 @@
   },
   {
     "package": "GSVA"
+  },
+  {
+    "package": "VariantFiltering"
   }
 ]

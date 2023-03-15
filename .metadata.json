@@ -3,9 +3,9 @@
     "package": "GenomicScores"
   },
   {
-    "package": "VariantFiltering"
+    "package": "GSVA"
   },
   {
-    "package": "GSVA"
+    "package": "VariantFiltering"
   }
 ]

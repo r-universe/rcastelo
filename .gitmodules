@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GenomicScores"]
-	path = GenomicScores
-	url = https://github.com/rcastelo/genomicscores
 [submodule "GSVA"]
 	path = GSVA
 	url = https://github.com/rcastelo/gsva
+[submodule "GenomicScores"]
+	path = GenomicScores
+	url = https://github.com/rcastelo/genomicscores
 [submodule "VariantFiltering"]
 	path = VariantFiltering
 	url = https://github.com/rcastelo/variantfiltering
